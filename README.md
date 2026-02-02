@@ -120,5 +120,4 @@ This project can be extended into more advanced transport intelligence solutions
 ## 👨‍💻 Author
 
 **Yusuf**  
-Aspiring Data Scientist & Machine Learning Enthusiast  
-Interested in building real-world AI-driven analytics systems
+
